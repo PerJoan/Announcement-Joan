@@ -1,0 +1,99 @@
+
+html {
+	margin:0 auto;
+
+}
+body {
+	background: url("http://45.media.tumblr.com/5ff8ac0dc3fb54ffea600824f72805f7/tumblr_nvngl4HPvQ1tx9r8so1_250.gif");
+	background-size: cover;
+	color: white;
+	font-family: 
+}
+
+.b {
+	 display: inline-block;
+    width: 450px;
+    height: 250px;
+    margin: 10px;
+		}
+.c 	
+	{display: inline;
+    width: 100%;
+   
+		}				
+
+div {
+	display: ;
+}		
+
+
+h1{
+	color: red;
+	font-family: cursive;
+	font-size: 45px;
+	text-align: center;
+}
+
+h2 {
+	color: white;
+	text-align: center;
+	font-family: luminari;
+	font-size: 40px;
+	word-spacing: 5px;
+}
+
+h3{
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	background-color: grey;
+	padding: 15px;
+	border-radius: 50%;
+	
+
+}
+
+h4 {
+	font-family: DPComic;
+	font-size: 50px;
+	text-transform: uppercase;
+	word-spacing: 25px;	
+
+
+
+}
+
+h5 {
+	font-family: DPComic;
+	font-size: 25px;
+	text-transform: capitalize;
+	word-spacing: 20px;	
+	text-align: center;
+
+}
+
+p {
+	color: red;
+	font-size: 20px;
+	text-align: center;
+	font-family: comic sans ms;
+}
+
+
+table {
+	background-color: red;
+	background-position: center;
+	padding: 15px;
+}
+
+th {
+	background-color: black;
+	padding: 5px;
+}
+
+
+
+
+
+
+
