@@ -6,8 +6,7 @@ html {
 body {
 	background: url("http://45.media.tumblr.com/5ff8ac0dc3fb54ffea600824f72805f7/tumblr_nvngl4HPvQ1tx9r8so1_250.gif");
 	background-size: cover;
-	color: white;
-	font-family: 
+	color: white;	 
 }
 
 .b {
@@ -24,18 +23,17 @@ body {
 
 div {
 	display: ;
+	
 }		
 
 
 h1{
 	color: red;
-	font-family: cursive;
 	font-size: 45px;
 	text-align: center;
 }
 
 h2 {
-	color: white;
 	text-align: center;
 	font-family: luminari;
 	font-size: 40px;
@@ -43,31 +41,25 @@ h2 {
 }
 
 h3{
-	color: white;
 	text-align: center;
 	font-size: 25px;
+	font-style: italic;
 	background-color: red;
 	padding: 20px;
 	border-radius: 50%;
 	word-spacing: 5px;
-
-	
-
 }
 
 h4 {
-	font-family: DPComic;
+	font-family: DPComic; 
 	font-size: 50px;
 	text-transform: uppercase;
-	word-spacing: ;	
-
-
 
 }
 
 h5 {
 	font-family: DPComic;
-	font-size: 25px;
+	font-size: 35px;
 	text-transform: capitalize;
 	word-spacing: 20px;	
 	text-align: center;
@@ -76,9 +68,10 @@ h5 {
 
 p {
 	color: red;
-	font-size: 20px;
+	font-size: 23px;
 	text-align: center;
 	font-family: comic sans ms;
+	
 }
 
 
@@ -86,16 +79,24 @@ table {
 	background-color: red;
 	background-position: center;
 	padding: 15px;
+	font-size: 35px;
 }
 
 th {
 	background-color: black;
-	padding: 5px;
+	padding: 10px;
 }
 
 
-
-
+input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+ }
 
 
 
