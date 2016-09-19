@@ -11,6 +11,10 @@ body {
 	color: white;	 
 }
 
+a {
+	color: red;
+}
+
 .b {
 	 display: inline-block;
     width: 350px;
