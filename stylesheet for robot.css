@@ -92,6 +92,8 @@ table {
 	background-position: center;
 	padding: 15px;
 	font-size: 35px;
+	border: 5px solid grey;
+	border-radius: 20px;
 }
 
 th {
